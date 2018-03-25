@@ -15,6 +15,6 @@ It finds the nearest neighbours of a square 2D matrix element with PBCs
 
 #FindAllNeighsPBC: 
 It finds all the neighbours of a square 2D matrix element with PBCs at certain distance radio (it can be the whole matrix).
-Here, distance is just the number of  elements. (More info in file).
+Here, distance is just the number of  elements. For radio = 1, use Find8Neighbours. (More info in file).
 
 #Violeta Calleja Solanas 2017/03/24
